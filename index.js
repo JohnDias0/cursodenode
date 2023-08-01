@@ -1,5 +1,6 @@
  const {Person} = require("./person")
-
+// require("./modules/path")
  const  person =  new Person("Jonathan")
 
- console.log(person.saymyname()) 
+ require("./modules/fs")
+//  console.log(person.saymyname())  

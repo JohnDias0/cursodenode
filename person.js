@@ -3,7 +3,7 @@ class Person {
     this.name = name;
   }
   saymyname() {
-    return "Hello, my name is " + this.name;
+    return 'My name is '+ this.name;
   }
 }
 
