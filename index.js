@@ -2,4 +2,4 @@
 
  const  person =  new Person("Jonathan")
 
- console.log(person.saymyname())
+ console.log(person.saymyname()) 
