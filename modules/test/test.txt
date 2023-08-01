@@ -1,1 +1,1 @@
-hello node hello, world
+hello nodehello, world
